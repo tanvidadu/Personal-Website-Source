@@ -1,20 +1,14 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Software Engineer",
+        "company":"Salesforce.com",
+        "summary":"Part of the Industries Cloud, primarily working on Java, Spring framework, and JavaScript to develop enterprise applications catering to the Manufacturing Industry Contributed to products like Sales Agreement, Account Forecast, rebates and Advance Account Forecast",
+        "range":"June 2020 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Software Engineering Intern",
+        "company":"Salesforce.com",
+        "summary":"Implemented E2E renewal functionality for Sales Agreements as part of Salesforce Manufacturing Cloud. It can be invoked both via UI and api. It is implemented based on the concept of Deep Clone",
+        "range":"May 2019 - July 2019"
     }
 ]

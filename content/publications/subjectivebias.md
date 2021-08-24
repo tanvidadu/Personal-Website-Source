@@ -1,0 +1,12 @@
+---
+title: "Towards Detection of Subjective Bias using Contextualized Word Embeddings"
+date: 2020-04-20
+pubtype: "Web Conference"
+featured: true
+description: "Subjective bias detection is critical for applications like propaganda detection, content recommendation, sentiment analysis, and bias neutralization. This bias is introduced in natural language via inflammatory words and phrases, casting doubt over facts, and presupposing the truth. In this work, we perform comprehensive experiments for detecting subjective bias using BERT-based models on the Wiki Neutrality Corpus (WNC). The dataset consists of 360k labeled instances, from Wikipedia edits that remove various instances of the bias. We further propose BERT-based ensembles that outperform state-of-the-art methods like BERTlarge by a margin of 5.6 F1 score."
+tags: ["bias detection" , "natural language processing"]
+link: "https://arxiv.org/pdf/2002.06644.pdf"
+weight: 400
+sitemap:
+  priority : 0.8
+---
