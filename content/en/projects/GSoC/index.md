@@ -3,6 +3,22 @@ title: "Google Summer of Code"
 weight: 1
 ---
 
-## Sometimes I take picture
+## Feedback Sharing Module in Commons App
 
-Created two new modules, the Feedback Sharing Module to provide a brief feedback of the images uploaded, and the Quiz module for users who have a high percentage of their uploads deleted. Both modules were included in the v2.8 release of the Wikimedia Commons App. They can currently be accessed by going to the Settings and opting in as a Beta Tester of these new features.
+The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons. This project aimed at sharing feedback about uploaded photos, educating people about topic & copyright and adding some sort of gamification to drive engagement. This project was implemented in two phases-
+
+#### 1) Feedback
+* Created a new module to display feedback.
+* Fetched and displayed following metrics using REST api on Common application- 
+  1. Number of images used in Wikipedia/Wikivoyage/etc articles
+  2. Number of images that have been edited by someone else
+  3. Number of images that have been featured 
+  4. Received barnstars
+  5. Received thanks if the feature becomes available on Commons
+* Added Gamification to the module in the form of levels and badges
+
+#### 2) Tutorial
+* Created a quiz for users who have a high upload revert rate 
+* Added support to display the tutorial again for users who have a high upload revert rate
+
+
